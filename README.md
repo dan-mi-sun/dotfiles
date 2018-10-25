@@ -37,6 +37,12 @@
 - zsh
   - link: .zshrc
 
+## Opinions
+
+Outsource dotfiles.
+
+I am using https://github.com/skwp/dotfiles for zsh and vim.
+
 ## Laptop : T440s
 
 • Intel Core i7-4600U Processor( 2.10GHz 1600MHz 4MB)
